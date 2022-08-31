@@ -25,9 +25,9 @@ export const config = {
     //   id: "wxafasdasdd-zxfvsdfd"
     // }]
     USERS: [
-      {name: '洲洲', id: "yoH8HH6CA9KuIVrpo52KlNKxzp_aU"}, 
+      {name: '洲洲', id: "oH8HH6CA9KuIVrpo52KlNKxzp_aU"}, 
       {name: '韬韬', id: "oH8HH6DVcZvvlvbJk0NeMmIoiIes"}, 
-      {name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
+      {name: '子墨', id: "oH8HH6BrsQ_YmIR-h_hVOVwPy1p4"}, 
       {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
@@ -53,22 +53,22 @@ export const config = {
     // 生日时，name填写想要展示的名字，你可以填“美丽可爱亲亲老婆”
     // 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
     FESTIVALS: [
-      {"type": "生日", "name": "老婆", "year": "1996", "date": "01-01"},
-      {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "01-04"},
-      {"type": "生日", "name": "李四", "year": "1996", "date": "08-29"},
-      {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "08-29"},
+      {"type": "生日", "name": "韬韬", "year": "2006", "date": "10-27"},
+      {"type": "生日", "name": "洲洲", "year": "2007", "date": "05-24"},
+      {"type": "生日", "name": "子墨", "year": "2006", "date": "03-15"},
+      {"type": "生日", "name": "浩洋", "year": "2021", "date": "05-04"},
     ],
     // 限制重要节日的展示条目, 需要填写数字; 
     // 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
     // 如果为0, 则默认展示全部
-    FESTIVALS_LIMIT: 3,
+    FESTIVALS_LIMIT: 0,
 
     /** 日期相关 */
 
-    // 在一起的日子，格式同上
-    LOVE_DATE: "2015-05-01",
-    // 结婚纪念日
-    MARRY_DATE: "2020-01-04",
+    // 相识的日子，格式同上
+    LOVE_DATE: "2019-09-01",
+    // 离别纪念日
+    MARRY_DATE: "2022-06-22",
 
 
     /** 每日一言 */

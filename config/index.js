@@ -25,7 +25,7 @@ export const config = {
     //   id: "wxafasdasdd-zxfvsdfd"
     // }]
     USERS: [
-      {name: '洲洲', id: "oH8HH6CA9KuIVrpo52KlNKxzp_aU"}, 
+      {name: '洲洲', id: "1hxOO6VskYv0Kuf-yoH8HH6CA9KuIVrpo52KlNKxzp_aUVRMpuXhk"}, 
       {name: '韬韬', id: "oH8HH6DVcZvvlvbJk0NeMmIoiIes"}, 
       {name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
       {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 

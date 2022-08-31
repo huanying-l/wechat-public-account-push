@@ -25,14 +25,14 @@ export const config = {
     //   id: "wxafasdasdd-zxfvsdfd"
     // }]
     USERS: [
-      {name: '洲洲', id: "1hxOO6VskYv0Kuf-oH8HH6CA9KuIVrpo52KlNKxzp_aU"}, 
-      {name: '韬韬', id: "2hxOO6VskYv0Kuf-oH8HH6DVcZvvlvbJk0NeMmIoiIes"}, 
+      {name: '洲洲', id: "oH8HH6CA9KuIVrpo52KlNKxzp_aU"}, 
+      {name: '韬韬', id: "oH8HH6DVcZvvlvbJk0NeMmIoiIes"}, 
       {name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
       {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
-      {name: '自己',id: "oH8HH6CA9KuIVrpo52KlNKxzp_aU-ywIZVRMpuXhk"}, 
+      {name: '自己',id: "oH8HH6CA9KuIVrpo52KlNKxzp_aU"}, 
     ],
      
     /**

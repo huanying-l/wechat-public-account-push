@@ -10,10 +10,10 @@ export const config = {
     APP_SECRET: "e0567dc17abf61a918c73da269f7ad01",
 
     // 模板消息id
-    TEMPLATE_ID: "doZQvlrb6t54yloZH1d-IRHg9x4wpD4YTuRNp063Cxo",
+    TEMPLATE_ID: "K70A9HOG_0UM4gupIZ4ugLSrj1eNUKwjKhhBUPFeBzs",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-    CALLBACK_TEMPLATE_ID: "JB-5IIBOi41MpVyG1Dm32CRSURIgbfVJFZCnoKhQw4U",
+    CALLBACK_TEMPLATE_ID: "68vFUbyRT6NHJrvPQg_WKEkdThtvCFFuV0rS3Rq6tpY",
 
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
     // [{
@@ -28,7 +28,8 @@ export const config = {
       {name: '洲洲', id: "oH8HH6CA9KuIVrpo52KlNKxzp_aU"}, 
       {name: '韬韬', id: "oH8HH6DVcZvvlvbJk0NeMmIoiIes"}, 
       {name: '子墨', id: "oH8HH6BrsQ_YmIR-h_hVOVwPy1p4"}, 
-      {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
+      {name: '浩洋', id: "oH8HH6El7wrupn-gUPZw47_xquGo"}, 
+      {name: '海博', id: "oH8HH6CnKa9tC_YaWveD00M7qEMY"},
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
@@ -56,7 +57,8 @@ export const config = {
       {"type": "生日", "name": "韬韬", "year": "2006", "date": "10-27"},
       {"type": "生日", "name": "洲洲", "year": "2007", "date": "05-24"},
       {"type": "生日", "name": "子墨", "year": "2006", "date": "03-15"},
-      {"type": "生日", "name": "浩洋", "year": "2021", "date": "05-04"},
+      {"type": "生日", "name": "浩洋", "year": "2006", "date": "05-04"},
+      {"type": "生日", "name": "海博", "year": "2006", "date": "03-21"},
     ],
     // 限制重要节日的展示条目, 需要填写数字; 
     // 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略

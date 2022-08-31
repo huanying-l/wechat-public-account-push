@@ -4,16 +4,16 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "",
+    APP_ID: "wx59f2a449981f1d84",
 
     // 公众号APP_SECRET
-    APP_SECRET: "",
+    APP_SECRET: "e0567dc17abf61a918c73da269f7ad01",
 
     // 模板消息id
-    TEMPLATE_ID: "xxxxxxxxxxxxx-y你懂的,填错狗头打烂VRMpu",
+    TEMPLATE_ID: "xxxxxxxxxxxxx-doZQvlrb6t54yloZH1d-IRHg9x4wpD4YTuRNp063Cxo",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-    CALLBACK_TEMPLATE_ID: "xxxxxxxxxxxxx-y你懂的,填错狗头打烂VRMpu",
+    CALLBACK_TEMPLATE_ID: "xxxxxxxxxxxxx-JB-5IIBOi41MpVyG1Dm32CRSURIgbfVJFZCnoKhQw4U",
 
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
     // [{
@@ -25,14 +25,14 @@ export const config = {
     //   id: "wxafasdasdd-zxfvsdfd"
     // }]
     USERS: [
-      {name: '老婆0', id: "1hxOO6VskYv0Kuf-y你懂的,填错狗头打烂VRMpuXhk"}, 
-      {name: '老婆1', id: "2hxOO6VskYv0Kuf-y你懂的,填错狗头打烂RMpuXhk"}, 
+      {name: '洲洲', id: "1hxOO6VskYv0Kuf-oH8HH6CA9KuIVrpo52KlNKxzp_aU"}, 
+      {name: '韬韬', id: "2hxOO6VskYv0Kuf-oH8HH6DVcZvvlvbJk0NeMmIoiIes"}, 
       {name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
       {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
-      {name: '自己',id: "5hxOO6VskYv你懂的,填错狗头打烂-ywIZVRMpuXhk"}, 
+      {name: '自己',id: "oH8HH6CA9KuIVrpo52KlNKxzp_aU-ywIZVRMpuXhk"}, 
     ],
      
     /**
@@ -42,9 +42,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "广东",
+    PROVINCE: "河北",
     // 所在城市
-    CITY: "惠州",
+    CITY: "石家庄",
 
     /** 重要节日相关 */
 

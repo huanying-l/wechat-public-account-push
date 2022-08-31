@@ -10,10 +10,10 @@ export const config = {
     APP_SECRET: "e0567dc17abf61a918c73da269f7ad01",
 
     // 模板消息id
-    TEMPLATE_ID: "xxxxxxxxxxxxx-doZQvlrb6t54yloZH1d-IRHg9x4wpD4YTuRNp063Cxo",
+    TEMPLATE_ID: "doZQvlrb6t54yloZH1d-IRHg9x4wpD4YTuRNp063Cxo",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-    CALLBACK_TEMPLATE_ID: "xxxxxxxxxxxxx-JB-5IIBOi41MpVyG1Dm32CRSURIgbfVJFZCnoKhQw4U",
+    CALLBACK_TEMPLATE_ID: "JB-5IIBOi41MpVyG1Dm32CRSURIgbfVJFZCnoKhQw4U",
 
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
     // [{
@@ -25,7 +25,7 @@ export const config = {
     //   id: "wxafasdasdd-zxfvsdfd"
     // }]
     USERS: [
-      {name: '洲洲', id: "1hxOO6VskYv0Kuf-yoH8HH6CA9KuIVrpo52KlNKxzp_aUVRMpuXhk"}, 
+      {name: '洲洲', id: "yoH8HH6CA9KuIVrpo52KlNKxzp_aU"}, 
       {name: '韬韬', id: "oH8HH6DVcZvvlvbJk0NeMmIoiIes"}, 
       {name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
       {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
